@@ -1,0 +1,21 @@
+{
+  "name": "fingerbottwitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./chat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Sentimental": "^1.0.1",
+    "data-store": "^3.1.0",
+    "moment": "^2.23.0",
+    "sentimentjs": "^1.0.6",
+    "twitch-api-v5": "^2.0.4",
+    "twitch-bot": "^1.2.5",
+    "twitch-toolkit": "0.0.10"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "username": "botusername",
+    "oauth": "oauth",
+    "channel": "#channelname",
+    "client_id": "twitch_client_ID"
+}
